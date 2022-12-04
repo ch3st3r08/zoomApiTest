@@ -1,0 +1,20 @@
+{
+  "name": "zoomapitest",
+  "version": "1.0.0",
+  "description": "Testing the zoom sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ch3st3r08/zoomApiTest"
+  },
+  "keywords": [
+    "zoom",
+    "test",
+    "api"
+  ],
+  "author": "Nestor Chavez",
+  "license": "ISC"
+}
